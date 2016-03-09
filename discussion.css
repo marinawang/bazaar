@@ -178,7 +178,6 @@
     #image_column
     {
     height: 100%;
-    position:static;
     float: left; 
     left:67%;
     min-width: 33%;
@@ -193,7 +192,6 @@
     #conversation_column
     {
     height: 100%;
-    position: static;
     float: right;
     width: 66% 
 

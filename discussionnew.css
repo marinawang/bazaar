@@ -68,7 +68,7 @@
         background-color:#fc9b14;
         color:#ffffff;
         overflow:hidden;
-        #width:100%;
+        width:100%;
         padding-left:10px;
         padding-top:5px;
         padding-bottom:5px;
@@ -114,9 +114,9 @@
     .date
     {
         width:100;
-        #text-align:right;
+        text-align:right;
         float:right;
-        #padding-right:20;
+        padding-right:20;
     }
     
     .user
@@ -144,7 +144,7 @@
         width:100%;
     overflow-x:hidden;        
         overflow-y:scroll;
-        #height:200px;
+        height:200px;
         
         height: 100%;
     }
@@ -155,7 +155,7 @@
         position:relative;
         z-index:1;
         width:100%;
-        #background-color:#66bbff;
+        background-color:#66bbff;
         height:100px;
         padding-top:10px;
     }
@@ -210,9 +210,9 @@
     
     #everything
     {
-        overflow:scroll
+        overflow:scroll;
         min-height:400px;
-        #width:100px;
+        width:100px;
     }
     
     #image_url_input
@@ -254,13 +254,13 @@
             padding: 5px;
             height: 22px;
             white-space: nowrap;
-            #overflow:hidden;
+            overflow:hidden;
         }
         .handles span {
             cursor: move;
         }
         li.disabled {
-            #opacity: 0.5;
+            opacity: 0.5;
             background:#CCDDEE;
             color:#777
         }
@@ -356,7 +356,6 @@
     
     .chem_text
     {
-        #background:#aaddff;
     background:#ffffff; 
         padding:5px;
     }

@@ -105,6 +105,7 @@
     }
     
     .message_agent .message {
+         background-color: yellow;
          font-weight: bold;
     }
     

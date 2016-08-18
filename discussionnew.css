@@ -102,10 +102,10 @@
     .message_agent
     {
          border: 2px solid yellow;
+         background-color: yellow;
     }
     
     .message_agent .message {
-         background-color: yellow;
          font-weight: bold;
     }
     

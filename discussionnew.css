@@ -105,6 +105,17 @@
          font-weight: bold;
     }
     
+    .messagebutton_div 
+    {
+         float: left;
+    }
+    
+    .blinker
+    {
+         padding-top: 2px;
+         color: orange;
+    }
+
 
     .info a:link
     {
@@ -368,8 +379,3 @@
         color:#003355
     }
     
-    .blinker
-    {
-         display: inline;
-         color: orange;
-    }

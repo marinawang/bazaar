@@ -175,8 +175,9 @@
     height: 100%;
     float: left; 
     left:67%;
-    min-width: 45%;
-    max-width: 45%;
+    /*min-width: 45%;*/
+    /*max-width: 45%;*/
+    width: 65%;
     right: 30px;    }
     
     #images
@@ -188,8 +189,8 @@
     {
     height: 100%;
     float: right;
-    width: 54% 
-
+    /*width: 54%;*/
+    width: 35%;
     }
     
     

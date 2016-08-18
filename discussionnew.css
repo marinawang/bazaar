@@ -105,11 +105,6 @@
          font-weight: bold;
     }
     
-    .messagebutton_div 
-    {
-         float: left;
-    }
-    
     .blinker
     {
          padding-top: 2px;
@@ -378,4 +373,10 @@
         font-family: Oxygen;
         color:#003355
     }
+    
+    #messagebutton_div 
+    {
+         float: left;
+    }
+    
     

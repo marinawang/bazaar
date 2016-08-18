@@ -85,7 +85,6 @@
         white-space:pre-wrap;
     }
     
-    
     .image_line
     {
         width:auto;
@@ -99,6 +98,16 @@
         overflow-x:hidden;
         background-color:#ffffff;
     }
+    
+    .message_agent
+    {
+         border: 2px solid white;
+    }
+    
+    .message_agent .message {
+         font-weight: bold;
+    }
+    
 
     .info a:link
     {

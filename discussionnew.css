@@ -101,11 +101,7 @@
     
     .message_agent
     {
-         border: 2px solid yellow;
-         background-color: yellow;
-    }
-    
-    .message_agent .message {
+         background-color: #ffff66;
          font-weight: bold;
     }
     
@@ -187,7 +183,7 @@
     left:67%;
     /*min-width: 45%;*/
     /*max-width: 45%;*/
-    width: 65%;
+    width: 64%;
     right: 30px;    }
     
     #images

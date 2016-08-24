@@ -21,7 +21,7 @@
         border:0px solid #ff8400;
         display:inline-block;
         cursor:pointer;
-        color:#fffaf0;
+        color:black;
         font-family:Oxygen;
         font-size:13px;
         padding:5px 10px;
@@ -39,7 +39,7 @@
     .button:disabled
     {
     background-color:#ccaa77;
-    color:#dddddd;
+    color:black;
     }
     .button.toggled
     {

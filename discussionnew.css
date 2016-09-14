@@ -379,4 +379,16 @@
          float: left;
     }
     
+    #conversation_text_div
+    {
+         width: 400px;
+         height: 400px;
+         position: fixed;
+         left: 50%;
+         top: 50%;
+         margin-top: -200px;
+         margin-left: -200px;
+         background-color: white;
+         z-index: 100;
+    }
     

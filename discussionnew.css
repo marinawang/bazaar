@@ -381,7 +381,7 @@
     
     #conversation_text_div
     {
-         
+         display: none;
          padding: 10px;
          width: 400px;
          height: 400px;

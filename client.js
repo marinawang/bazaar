@@ -532,7 +532,7 @@ $(document).ready(function() {
     $.ajax({ cache: false
            , type: "GET" // XXX should be POST
            , dataType: "json"
-           , url: "/login"
+           , url: "/join"
 		, data: { nick: nick, consent:consent, reset:reset }
            , error: function () {
                alert("error connecting to server");

@@ -402,8 +402,8 @@
     
     #conversation_text_div button {
          position: absolute;
-         top: 0px;
-         right: 0px;
+         top: 5px;
+         right: 5px;
     }
     
     #conversation_text {

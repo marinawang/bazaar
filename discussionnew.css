@@ -382,6 +382,7 @@
     #conversation_text_div
     {
          display: none;
+         padding: 10px;
          width: 400px;
          height: 400px;
          position: fixed;
@@ -394,10 +395,18 @@
          z-index: 100;
     }
     
+    #conversation_text_div h3 {
+         color: black;
+         width: 100%;
+    }
+    
     #conversation_text_div button {
          position: absolute;
-         right: 10px;
-         top: 10px;
-         
+         top: 0px;
+         right: 0px;
+    }
+    
+    #conversation_text {
+         width: 100%;
     }
     
